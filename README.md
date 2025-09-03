@@ -33,8 +33,8 @@
 - 🎓 Cisco Badge: *CCNAv7: Switching, Routing, and Wireless Essentials*
                   & *CCNA: Introduction to Networks*
 
-![Cisco Certificate](CCNA.png)
-![Cisco Certificate](CCNAv7.png)
+![Cisco Certificate](CCNA)
+![Cisco Certificate](CCNAv7)
 
 ### 📫 Connect With Me
 <p align="center">
