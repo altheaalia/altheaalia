@@ -30,12 +30,13 @@
 
 
 ### 🏅 Achievements & Certifications
-- 🎓 Cisco Badge: *CCNAv7: Switching, Routing, and Wireless Essentials*
+- 🎓 Cisco Badge & Certificate: *CCNAv7: Switching, Routing, and Wireless Essentials*
                   & *CCNA: Introduction to Networks*
 
-![Cisco Certificate](CCNA)
-![Cisco Certificate](CCNAv7)
-
+<p align="center">
+  <img src="CCNA" width="400" height="400"/>
+  <img src="CCNAv7" width="400" height="400"/>
+</p>
 ### 📫 Connect With Me
 <p align="center">
   <a href="mailto:krizannalthea.alia@g.msuiit.edu.ph"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
