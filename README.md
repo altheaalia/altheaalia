@@ -1,5 +1,3 @@
-<!-- Profile README -->
-
 <h1 align="center">✨ Hi, I’m Thea 👋</h1>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/althealia" width="200" style="border-radius: 50%;" alt="Profile Photo"/>
@@ -15,14 +13,14 @@
 
 ---
 
-### 💡 Tech Stack
+### 🛠️ Tech I’ve Worked With
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-C++-brightgreen?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Web-HTML5-red?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/Web-CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-brightgreen?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
 </p>
 
 ---
