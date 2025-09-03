@@ -13,25 +13,15 @@
 
 ---
 
-### 🛠️ Tech I’ve Worked With
+### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/C++-brightgreen?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/BlueJ-lightblue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-darkorange?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="150"/>
-</p>
-
----
 
 ### 🤝 Connect With Me
 <p align="center">
@@ -42,7 +32,7 @@
 ---
 
 <p align="center">
-  💡 *“Code, learn, grow, and create meaningful impact.”*
+  💡 *“Still learning, step by step.”*
 </p>
 
 
