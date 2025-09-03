@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi, I’m Thea 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/althealia" width="200" style="border-radius: 50%;" alt="Profile Photo"/>
+  <img src="received_1309836820286254.jpeg" width="200" style="border-radius: 50%;" alt="Profile Photo"/>
 </p>
 
 ---
@@ -12,6 +12,10 @@
 - ✨ Shy but open to **learning** new things and **improving** step by step  
 
 ---
+### 🚀 Projects
+- 📊 **Underground Cabling using Graph Theory (Thesis)**  
+- 🌐 **Networking Labs** (Packet Tracer configs)
+
 
 ### 🛠️ Languages & Tools
 <p align="center">
@@ -22,11 +26,21 @@
   <img src="https://img.shields.io/badge/XAMPP-darkorange?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
+----
 
-### 🤝 Connect With Me
+
+### 🏅 Achievements & Certifications
+- 🎓 Cisco Badge: *CCNAv7: Switching, Routing, and Wireless Essentials*
+                  & *CCNA: Introduction to Networks*
+
+![Cisco Certificate](CCNA.png)
+![Cisco Certificate](CCNAv7.png)
+
+### 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:krizannalthea.alia@g.msuiit.edu.ph"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/teeyyangg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://facebook.com/aliaAlthea.2003"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 ---
